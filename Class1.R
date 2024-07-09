@@ -1,4 +1,4 @@
-#### Functions 123
+#### Functions 123456
 #MinMAx and other values
 
 min(d[,c(4,8,12)])
